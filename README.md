@@ -1,0 +1,1 @@
+Examples of high-level programming languages in active use today include Python, Visual Basic, Delphi, Perl, PHP, ECMAScript, Ruby, C#, Java and many others. The terms high-level and low-level are inherently relative.
